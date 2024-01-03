@@ -28,5 +28,3 @@ Once the project is set up, here's how to use the application:
 1. Access the **admin panel** at `http://localhost:8000/admin` to add products and manage users.
 2. Explore the website functionalities and user flows at `http://localhost:8000`.
 
-## License
-This project is licensed under the [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
